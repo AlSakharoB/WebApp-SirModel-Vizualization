@@ -43,12 +43,6 @@ venv\\Scripts\\activate        # Для Windows
 pip install -r requirements.txt
 ```
 
-### 4. Установка Shiny for Python (если не указано в `requirements.txt`):
-
-```bash
-pip install shiny matplotlib numpy scipy
-```
-
 ---
 
 ## ▶️ **Запуск приложения**
