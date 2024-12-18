@@ -1,0 +1,4 @@
+shiny
+scipy
+matplotlib
+numpy
